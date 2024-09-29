@@ -22,7 +22,7 @@ Soy un apasionado de la tecnología y el desarrollo de software. Me encanta pasa
 [![](https://visitcount.itsvg.in/api?id=cuartas56&icon=10&color=4)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Andres  Cuartas Tamayo) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Andres_Cuartas_Tamayo) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
